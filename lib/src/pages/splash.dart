@@ -41,7 +41,7 @@ class _SplashPageState extends State<SplashPage> {
         .dark); //meter a infromacao de bateria rede... preto
 
     return Scaffold(
-         backgroundColor: Colors.white,
+      backgroundColor: Colors.white,
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
